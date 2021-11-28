@@ -1,0 +1,4 @@
+paddlepaddle
+jieba
+requests
+
