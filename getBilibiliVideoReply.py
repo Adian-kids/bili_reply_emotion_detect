@@ -10,10 +10,10 @@ class getBilibiliVideoReply:
     '''
     def __init__(self):
         print("-->Crawler init")
-        self.SESSDATA = "90a31abd%2C1653143101%2C467c3%2Ab1"
-        self.bili_jct = "5a7b48fb937a757a0ddf5c902a73d54c"
-        self.DedeUserId = "17509450"
-        self.DedeUserId_ckMd5 = "1ba7d10a50de029d"
+        self.SESSDATA = "90a31abd%2C165101%2C467c3%2Ab1"
+        self.bili_jct = "5a7b48fb937a757a0dd2a73d54c"
+        self.DedeUserId = "179450"
+        self.DedeUserId_ckMd5 = "1ba7d100de029d"
 
     def getReply(self,oid):
         for page in range(1,10):
